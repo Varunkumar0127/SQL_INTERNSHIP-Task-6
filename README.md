@@ -1,9 +1,3 @@
-# SQL_INTERNSHIP-Task-6
-SQL project demonstrating the use of subqueries in a Hotel Booking System database.
-Here’s the **README.md** for your **Task 6 – Hotel Booking System Subqueries** based on the style I used for your previous tasks:
-
----
-
 # 📌 SQL Task 6 – Subqueries in Hotel Booking System
 
 ## 🎯 Objective
